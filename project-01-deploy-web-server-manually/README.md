@@ -29,7 +29,7 @@ EC2 Instance (t3.micro)
 
 A landing page hosted on an EC2 instance and served using Nginx.
 
-![Landing Page](screenshot/73-final-website-page.png)
+![Landing Page](screenshot/07-final-website-page.png)
 
 ---
 
